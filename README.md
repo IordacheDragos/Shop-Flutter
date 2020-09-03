@@ -1,0 +1,1 @@
+I have created a login page, a register page with Firebase as a backend and a page with products with a shopping cart where the user can buy and remove from cart. For state management i used Provider.
