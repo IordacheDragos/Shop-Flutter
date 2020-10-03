@@ -37,7 +37,7 @@ class Autentificare {
     try {
       _auth.signOut();
     } catch (e) {
-      print('muie' + e.toString());
+     
     }
   }
 }
